@@ -1,0 +1,6 @@
+{
+  "name": "Product Photo Background Remover",
+  "description": "Remove backgrounds and clean up product photos by typing instructions, and track edits in Google Sheets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
